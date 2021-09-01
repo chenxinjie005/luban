@@ -2,6 +2,6 @@ package com;
 
 public class chen2 {
     public static void main(String[] args) {
-        System.out.println("2222222222222222222222222222");
+        System.out.println("22222222222222222222222222223333333333333333333333333");
     }
 }
